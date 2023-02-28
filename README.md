@@ -9,3 +9,7 @@ I am editing this file again in order to see the working of 'fetch' in VSCode. -
 Editing to check the working of 'pull'. --aditya
 
 Now I will create a pull request.
+
+Changes made in VSCode.
+
+Creating a pull request from vscode
