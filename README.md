@@ -12,4 +12,6 @@ Now I will create a pull request.
 
 Changes made in VSCode.
 
-Creating a pull request from vscode
+Creating a pull request from vscode.
+
+adding additional features to the calculator
