@@ -44,7 +44,7 @@ input:active[type=button] {
 }
 
 body {
-    background: linear-gradient(66deg, #17a890, #156cd2, #cc16df, #df8216);
+    background: linear-gradient(66deg, #a83e1732, #d24715d4, #16d8df60, #16df48e0);
     background-size: 800% 800%;
 
     -webkit-animation: AnimationName 7s ease infinite;
